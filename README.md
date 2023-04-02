@@ -1,2 +1,1 @@
-# digital-clock
-Created with CodeSandbox
+frist README
